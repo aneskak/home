@@ -1,15 +1,19 @@
 ## 💻 Sobre o projeto
 
-Landing page onde será exposto meu portifólio. <br>
+Landing page responsiva onde será exposto meu portifólio. <br>
 🚧 Ainda se encontra em fase de construção ✔️ 🚧
 
-## 🖼 Screenshot da tela web
+## 🖼 Screenshots da pagina 
 
-<img src="./img/print_login.PNG" alt="Print de tela na web">
+<img src="./img/header.gif" alt="GIF da tela">
+<br>
+<img src="./img/3d-img.gif" alt="GIF da tela">
+<br>
+<img src="./img/bloco-3.gif" alt="GIF da tela">
 
 ## 🖼 Screenshot da tela mobile
 
-<img src="./img/print_login_mobile.PNG" alt="Print de tela no mobile">
+<img src="./img/mobile.gif" alt="Print de tela no mobile">
 
 
 ## 🛠 Tecnologias
@@ -34,11 +38,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 👷 Como rodar
 
-### **Clique <a href="https://aneskak.github.io/login/">aqui</a>, ou**
+### **Clique <a href="https://aneskak.github.io/home/">aqui</a>, ou**
 ```bash
   
 # Para clonar o repositório
-git clone https://github.com/aneskak/login.git
+git clone https://github.com/aneskak/home.git
 
 # Entrar numa IDE de sua preferência 
 
@@ -46,7 +50,7 @@ git clone https://github.com/aneskak/login.git
 
 ```
 
-## :mortar_board: Autores
+## :mortar_board: Autora
 
 <table align="center">
     <tr>
@@ -62,9 +66,3 @@ git clone https://github.com/aneskak/login.git
 <h4 align="center">
    Feito com 💖 por <a href="https://www.linkedin.com/in/aneska-karina-7521795b/" target="_blank"> Aneska Karina </a>
 </h4>
-
-
-
-
-# home
-https://aneskak.github.io/home/
