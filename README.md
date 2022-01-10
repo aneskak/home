@@ -18,7 +18,7 @@ Landing page responsiva onde será exposto meu portifólio. <br>
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas no desenvolvimento do projeto:
 
 ### **Front-end**
 <br>
