@@ -56,7 +56,7 @@ git clone https://github.com/aneskak/home.git
     <tr>
         <td align="center">
             <a href="https://github.com/aneskak">
-                <img src="./img/programadora.png" width="150px;" alt="Imagem Desenvolvedora" />
+                <img src="./img/mulher.png" width="150px;" alt="Imagem Desenvolvedora" />
                 <br />
                 <sub><b>Aneska Karina</b></sub>
             </a>
