@@ -1,7 +1,7 @@
 ## 💻 Sobre o projeto
 
 Landing page responsiva onde será exposto meu portifólio. <br>
-🚧 Ainda se encontra em fase de construção ✔️ 🚧
+🚧 Ainda se encontra em fase de desenvolvimento ✔️ 🚧
 
 ## 🖼 Screenshots da pagina 
 
