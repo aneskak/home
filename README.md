@@ -52,11 +52,12 @@ git clone https://github.com/aneskak/home.git
 
 ## :mortar_board: Autora
 
+
 <table align="center">
     <tr>
         <td align="center">
             <a href="https://github.com/aneskak">
-                <img src="./img/mulher.png" width="150px;" alt="Imagem Desenvolvedora" />
+                <img src="https://avatars.githubusercontent.com/u/97143577?v=4" width="150px;" alt="Avatar da Aneska" />
                 <br />
                 <sub><b>Aneska Karina</b></sub>
             </a>
@@ -64,5 +65,5 @@ git clone https://github.com/aneskak/home.git
     </tr>
 </table>
 <h4 align="center">
-   Feito com 💖 por <a href="https://www.linkedin.com/in/aneska-karina-7521795b/" target="_blank"> Aneska Karina </a>
+   Feito com 💖 por  <a href="https://www.linkedin.com/in/aneska/" target="_blank"> Aneska Karina </a>
 </h4>
